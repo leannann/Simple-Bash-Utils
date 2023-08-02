@@ -1,5 +1,5 @@
 # Simple-Bash-Utils
 
-In this project you will learn and develop basic Bash utilities for working with C programming language texts.
+This project provides an implementation of the native cat and grep utilities.
 
 В этом проекте представленна реализация собственных утилит cat и grep.
